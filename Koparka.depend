@@ -1,0 +1,237 @@
+# depslib dependency file v1.0
+1417561465 source:d:\codeblocks\grafika\koparka\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/glut.h>
+	<math.h>
+
+1301111162 d:\codeblocks\install\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 d:\codeblocks\install\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 d:\codeblocks\install\mingw\include\winuser.h
+
+1301111162 d:\codeblocks\install\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 d:\codeblocks\install\mingw\include\winerror.h
+
+1341006776 d:\codeblocks\install\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 d:\codeblocks\install\mingw\include\_mingw.h
+
+1301111148 d:\codeblocks\install\mingw\include\basetsd.h
+
+1301111156 d:\codeblocks\install\mingw\include\pshpack4.h
+
+1301111156 d:\codeblocks\install\mingw\include\poppack.h
+
+1301111164 d:\codeblocks\install\mingw\include\winver.h
+
+1301111148 d:\codeblocks\install\mingw\include\dde.h
+
+1301111150 d:\codeblocks\install\mingw\include\dlgs.h
+
+1301111148 d:\codeblocks\install\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 d:\codeblocks\install\mingw\include\prsht.h
+
+1301111162 d:\codeblocks\install\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 d:\codeblocks\install\mingw\include\wincon.h
+
+1301111160 d:\codeblocks\install\mingw\include\winbase.h
+
+1301111162 d:\codeblocks\install\mingw\include\wingdi.h
+
+1301111162 d:\codeblocks\install\mingw\include\winnls.h
+
+1301111162 d:\codeblocks\install\mingw\include\winnetwk.h
+
+1301111162 d:\codeblocks\install\mingw\include\winreg.h
+
+1301111164 d:\codeblocks\install\mingw\include\winsvc.h
+
+1301111148 d:\codeblocks\install\mingw\include\cderr.h
+
+1301111148 d:\codeblocks\install\mingw\include\ddeml.h
+
+1301111150 d:\codeblocks\install\mingw\include\imm.h
+
+1301111154 d:\codeblocks\install\mingw\include\lzexpand.h
+
+1301111154 d:\codeblocks\install\mingw\include\mmsystem.h
+
+1301111154 d:\codeblocks\install\mingw\include\nb30.h
+
+1301111158 d:\codeblocks\install\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 d:\codeblocks\install\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 d:\codeblocks\install\mingw\include\basetyps.h
+
+1301111158 d:\codeblocks\install\mingw\include\rpcdcep.h
+
+1301111158 d:\codeblocks\install\mingw\include\rpcnsi.h
+
+1301111158 d:\codeblocks\install\mingw\include\rpcnterr.h
+
+1341006772 d:\codeblocks\install\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 d:\codeblocks\install\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 d:\codeblocks\install\mingw\include\pshpack2.h
+
+1301111162 d:\codeblocks\install\mingw\include\winperf.h
+
+1301111148 d:\codeblocks\install\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 d:\codeblocks\install\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 d:\codeblocks\install\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 d:\codeblocks\install\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 d:\codeblocks\install\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 d:\codeblocks\install\mingw\include\rpcnsip.h
+
+1301111162 d:\codeblocks\install\mingw\include\winspool.h
+
+1301111162 d:\codeblocks\install\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 d:\codeblocks\install\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 d:\codeblocks\install\mingw\include\mswsock.h
+
+1301111156 d:\codeblocks\install\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 d:\codeblocks\install\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 d:\codeblocks\install\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 d:\codeblocks\install\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 d:\codeblocks\install\mingw\include\cguid.h
+
+1301111156 d:\codeblocks\install\mingw\include\olectlid.h
+
+1301111156 d:\codeblocks\install\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 d:\codeblocks\install\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 d:\codeblocks\install\mingw\include\oleidl.h
+	<objfwd.h>
+
+976659772 d:\codeblocks\install\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1301111164 d:\codeblocks\install\mingw\include\gl\gl.h
+
+1301111164 d:\codeblocks\install\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1341006774 d:\codeblocks\install\mingw\include\math.h
+	<_mingw.h>
+
+1417619027 source:f:\c++\grafika\koparka\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/glut.h>
+	<math.h>
+
+1418635896 source:f:\koparka\main.cpp
+	<iostream>
+	<windows.h>
+	<gl/glut.h>
+	<math.h>
+
